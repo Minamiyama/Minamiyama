@@ -1,2 +1,2 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minamiyama&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minamiyama&layout=compact)
+### 📊 我的项目参与 & 活动
+![Metrics](./github-metrics.svg)
